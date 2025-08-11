@@ -62,7 +62,9 @@ uvicorn app.main:app --reload
 
 The API will be available at: http://127.0.0.1:8000
 
-![alt text](<image.png>)
+![alt text](<image1.png>)
+![alt text](<image2.png>)
+![alt text](<image3.png>)
 
 📡 API Endpoints
 
